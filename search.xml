@@ -275,6 +275,8 @@
 <p>setenforce 0  关闭selinux</p>
 <p>网易云代理设置方法</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">网易云客户端设置 &gt; 工具 &gt; 自定义代理 &gt; HTTP代理</span><br><span class="line">这里只需要填上你的服务器ip和端口，保存即可。</span><br><span class="line">Windows</span><br><span class="line">设置&gt;工具&gt;自定义代理(客户端内)</span><br><span class="line">UWP</span><br><span class="line">Windows设置&gt;网络和Internet &gt;代理</span><br><span class="line">Linux</span><br><span class="line">系统设置&gt;网络&gt;网络代理</span><br><span class="line">macOS</span><br><span class="line">系统偏好设置&gt;网络&gt;高级&gt;代理</span><br><span class="line">Android</span><br><span class="line">WLAN&gt;修改网络&gt;高级选项&gt;代理</span><br><span class="line">iOs</span><br><span class="line">#设置方法</span><br><span class="line">需要用到代理配置工具 Shadowrocket （拼夕夕几块钱）</span><br><span class="line">打开小火箭 &gt; 添加节点(类型选择HTTP，输入你的ip和端口，随便备注下，右上角完成即可) &gt; 编辑配置 &gt; 添加规则(类型选择USER-AGENT，选项选择网易云，用户代理输入NeteaseMusic*)，保存即可。</span><br></pre></td></tr></table></figure>
+
+<p><img src= "/img/loading.gif" data-lazy-src="/.com//e\myblog\source_posts\使用UnblockNeteaseMusic播放网易云音乐客户端无版权歌曲\使用UnblockNeteaseMusic播放网易云音乐客户端无版权歌曲.jpg"></p>
 ]]></content>
       <categories>
         <category>inux下网易云无视版权，会员等歌曲</category>
